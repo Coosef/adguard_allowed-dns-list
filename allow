@@ -1,0 +1,73 @@
+!
+! Title: Allowed Dns List
+! Description: Dns addresses of trusted applications
+! Version: 1
+! Homepage: https://github.com/Coosef/adguard_allowed-dns-list
+! Last modified: 18 Temmuz 2024, Perşembe 
+!
+! Compiled by @coosef
+
+!
+! License: MIT (https://mit-license.org/)
+
+
+!Teamviewer
+!
+!
+||client.teamviewer.com^
+||router15.teamviewer.com^
+||router9.teamviewer.com^
+||it-mil-anx-r015.router.teamviewer.com^
+||router6.teamviewer.com^
+||router8.teamviewer.com^
+||router2.teamviewer.com^
+||router3.teamviewer.com^
+||router14.teamviewer.com^
+||router10.teamviewer.com^
+||router16.teamviewer.com^
+||router12.teamviewer.com^
+||gb-lon-anx-r010.router.teamviewer.com^
+||router7.teamviewer.com^
+||download.teamviewer.com^
+||configdl.teamviewer.com^
+||eu-teams.events.data.microsoft.com^
+||client-office365-tas.msedge.net^
+||teams.events.data.microsoft.com^
+||router11.teamviewer.com^
+||remotedesktop-pa.googleapis.com^
+||login.teamviewer.com^
+||udp.ping.teamviewer.com^
+||gr-ath-anx-r004.router.teamviewer.com^
+||router1.teamviewer.com^
+||router4.teamviewer.com^
+||router13.teamviewer.com^
+||gb-lon-gcp-r004.router.teamviewer.com^
+||ch-zrh-anx-r012.router.teamviewer.com^
+||se-sto-anx-r005.router.teamviewer.com^
+||router12.teamviewer.com^
+||router11.teamviewer.com^
+||router1.teamviewer.com^
+||router7.teamviewer.com^
+||router8.teamviewer.com^
+||router13.teamviewer.com^
+||router9.teamviewer.com^
+||router10.teamviewer.com^
+||router6.teamviewer.com^
+||router2.teamviewer.com^
+||router5.teamviewer.com^
+||router3.teamviewer.com^
+||remotedesktop-pa.googleapis.com^
+||client.teamviewer.com^
+||whatsnew.teamviewer.com^
+||bg-sof-anx-r002.router.teamviewer.com^
+||bg-sof-anx-r006.router.teamviewer.com^
+||gr-ath-anx-r005.router.teamviewer.com^
+||gr-ath-anx-r001.router.teamviewer.com^
+||ro-buc-anx-r005.router.teamviewer.com^
+||profilepicturedl.teamviewer.com^
+||bg-sof-anx-r010.router.teamviewer.com^
+||bg-sof-anx-r007.router.teamviewer.com^
+||ro-buc-anx-r008.router.teamviewer.com^
+||ro-buc-anx-r009.router.teamviewer.com^
+||wsp.teamviewer.com^
+||dk-cph-anx-r005.router.teamviewer.com^
