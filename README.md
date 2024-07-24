@@ -1,1 +1,1 @@
-# adguard_allowed-dns-list
+
