@@ -14,6 +14,7 @@
 !Teamviewer
 !
 !
+@@||teamviewer.com^$important
 @@||client.teamviewer.com^
 @@||router15.teamviewer.com^
 @@||router9.teamviewer.com^
@@ -93,12 +94,9 @@
 @@||content.powerapps.com^
 @@||content.prod.powerquery.microsoft.com^
 @@||appsource.powerbi.com^
-
+@@||powerbi.com^$important
 
 
 !Diğer
 
 @@||translate.googleapis.com^
-@@||yeb.info^$important
-@@||eyes.yeb.info^$important
-@@||link.yeb.info^
