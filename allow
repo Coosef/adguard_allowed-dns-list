@@ -100,3 +100,11 @@
 !Diğer
 
 @@||translate.googleapis.com^
+
+
+!O365 Microsoft
+@@||incidents.diagnostics.office.com^$important
+@@||r4.res.office365.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||fp.msedge.net^$important
+@@||entitlement.diagnostics.office.com^$important
