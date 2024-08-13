@@ -108,3 +108,4 @@
 @@||browser.pipe.aria.microsoft.com^$important
 @@||fp.msedge.net^$important
 @@||entitlement.diagnostics.office.com^$important
+@@||api.diagnostics.office.com^$important
