@@ -3,7 +3,7 @@
 ! Description: Dns addresses of trusted applications
 ! Version: 1
 ! Homepage: https://github.com/Coosef/adguard_allowed-dns-list
-! Last modified: 19 Temmuz 2024, Perşembe 
+! Last modified: 08/10/2024 
 !
 ! Compiled by @coosef
 
@@ -12,6 +12,8 @@
 
 
 
+!Anex Cybersecurity
+||152.89.198.155^
 
 
 
